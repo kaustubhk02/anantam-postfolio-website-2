@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion'
 import SectionWrapper from '@/components/ui/SectionWrapper'
 import ProjectImage from '@/components/ui/ProjectImage'
-import { Cpu, Radio, HardDrive, Parachute } from 'lucide-react'
+import { Cpu, Radio, HardDrive} from 'lucide-react'
 
 interface SubsystemProps {
   id: string
